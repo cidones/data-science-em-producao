@@ -2,11 +2,11 @@
  
  This is a challenge from Kaggle - Rossmann Store sales
  
- ## 0.0. Problem
+ ## 0.0. Task
  
  Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance.
  
- ## 0.1. How to clone this Repo
+ ## 0.1. How to clone and open this project
  
  Git
  1. Download and install git https://git-scm.com/download/
@@ -23,7 +23,7 @@
  
  enjoy ;)
  
- ## Module 1.0.
+ ## Module 1.0. Understand the problem
  
  Business acumen - understand the intricacies of the business you are. 
  * Motivation
@@ -32,7 +32,7 @@
  * Root cause
  * Engagement with the right stakeholders
  
- ### 1.1. Work on a Solution
+ ### 1.1. Work on a solution
  * Graunlarity
  * Type of problem
  * Potential methods 
