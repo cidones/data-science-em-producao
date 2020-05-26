@@ -1,12 +1,8 @@
 ﻿# Data Science Em Producao
  
- This is a challenge from Kaggle - Rossmann Store sales
+ Repo contains code and libraries from Data Science training from Meigarom Lopes 
  
- ## 0.0. Task
- 
- Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance.
- 
- ## 0.1. How to clone and open this project
+ ## 0.0. How to clone and open this project
  
  Git
  1. Download and install git https://git-scm.com/download/
@@ -24,6 +20,10 @@
  enjoy ;)
  
  ## Module 1.0. Understand the problem
+ 
+ This is a challenge from Kaggle - Rossmann Store sales.
+ 
+ Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance.
  
  Business acumen - understand the intricacies of the business you are. 
  * Motivation
