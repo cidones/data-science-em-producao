@@ -1,6 +1,6 @@
 ﻿# Data Science Em Producao
  
- Repo contains code and libraries from Data Science training from Meigarom Lopes 
+ Brief summary of Data Science training from Meigarom Lopes 
  
  ## 0.0. How to clone and open this project
  
